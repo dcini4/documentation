@@ -900,10 +900,8 @@ detailed information on the reports, and their various options, refer to the :do
 
 .. seealso::
    :doc:`time_off/request_time_off`
-   :doc:`time_off/my_time`
 
 .. toctree::
    :titlesonly:
 
    time_off/request_time_off
-   time_off/my_time
